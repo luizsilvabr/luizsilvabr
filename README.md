@@ -1,29 +1,23 @@
 <div align="center">
 
-# Olá, eu sou Luíz Felipe Lopes da Silva 👋
-
-### 💻 Desenvolvedor FullStack
+## Desenvolvedor FullStack
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;React+%7C+Node.js+%7C+PHP+%7C+Python;Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizsilvabr&label=Visualiza%C3%A7%C3%B5es&color=00F7FF&style=flat" alt="profile views" />
-</div>
+<br>
+
+## Sobre mim
+
+- Atualmente trabalhando como **Desenvolvedor FullStack**
+- Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+- Fale comigo sobre React, Node.js, PHP ou qualquer coisa envolvendo desenvolvimento web
+- Como me encontrar: <a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://api.whatsapp.com/send?phone=5514997692601" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br>
 
-## 🚀 Sobre mim
-
-- 🔭 Atualmente trabalhando como **Desenvolvedor FullStack**
-- 🌱 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
-- 💬 Fale comigo sobre React, Node.js, PHP ou qualquer coisa envolvendo desenvolvimento web
-- 📫 Como me encontrar: veja os links logo abaixo!
-
-<br>
-
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -53,7 +47,7 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -66,7 +60,7 @@
 
 <br>
 
-## 📈 Gráfico de Contribuições
+## Gráfico de Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizsilvabr&theme=tokyo-night&hide_border=true" />
@@ -74,7 +68,7 @@
 
 <br>
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
