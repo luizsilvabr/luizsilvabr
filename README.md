@@ -61,8 +61,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizsilvabr&theme=tokyo-night&hide_border=true" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=100&section=footer" />
-</div>
