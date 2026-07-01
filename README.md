@@ -1,38 +1,97 @@
-### <h1>Olá Mundo! Me chamo Luíz Felipe Lopes da Silva <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+<div align="center">
 
-<div>
-  <p>🔭 Hoje Trabalho como Desenvolvedor FullStack</p>
-    <img width="100" align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
-  <p>📫 Fale Comigo: luizsilva12br@gmail.com</p>
-  <p>😄 Pronomes: Ele/Dele</p>
+# Olá, eu sou Luíz Felipe Lopes da Silva 👋
+
+### 💻 Desenvolvedor FullStack
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;React+%7C+Node.js+%7C+PHP+%7C+Python;Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luizsilvabr&label=Visualiza%C3%A7%C3%B5es&color=00F7FF&style=flat" alt="profile views" />
+</div>
+
 <br>
-<div style="width:100%">
-  <a href="https://github.com/luizsilvabr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&langs_count=7&theme=dracula"/>
+
+## 🚀 Sobre mim
+
+- 🔭 Atualmente trabalhando como **Desenvolvedor FullStack**
+- 🌱 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+- 💬 Fale comigo sobre React, Node.js, PHP ou qualquer coisa envolvendo desenvolvimento web
+- 📫 Como me encontrar: veja os links logo abaixo!
+
+<br>
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### Front-end
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+### Back-end
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+### Banco de Dados & Ferramentas
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
 </div>
 
-<div style="display: inline-block">
-  <br>
-  <img align="center" alt="Luiz-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Luiz-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luiz-Codeigniter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Luiz-MYSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<br>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizsilvabr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsilvabr&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-##
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizsilvabr&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
 
-<div>  
-  <a href = "https://api.whatsapp.com/send?phone=5514997692601"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <!-- ![Snake animation](https://github.com/luizsilvabr/luizsilvabr/blob/output/github-contribution-grid-snake.svg) -->
+<br>
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizsilvabr&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br>
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luizlsilva/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:luizsilva12br@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=5514997692601" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=100&section=footer" />
 </div>
