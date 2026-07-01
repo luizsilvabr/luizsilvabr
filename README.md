@@ -1,6 +1,6 @@
 <div align="center">
 
-## Desenvolvedor FullStack
+<p align="center" style="font-size: 24px; font-weight: 600;">Desenvolvedor FullStack</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;React+%7C+Node.js+%7C+PHP+%7C+Python;Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 - Atualmente trabalhando como **Desenvolvedor FullStack**
 - Sempre estudando novas tecnologias e boas práticas de desenvolvimento
 - Fale comigo sobre React, Node.js, PHP ou qualquer coisa envolvendo desenvolvimento web
-- Como me encontrar: <a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://api.whatsapp.com/send?phone=5514997692601" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+- Como me encontrar: <div><a href="https://www.linkedin.com/in/luizlsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:luizsilva12br@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://api.whatsapp.com/send?phone=5514997692601" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></div>
 
 <br>
 
