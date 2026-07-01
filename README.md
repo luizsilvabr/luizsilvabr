@@ -8,7 +8,7 @@
 
 <br>
 
-## Sobre mim
+<hr>
 
 - **Desenvolvedor Full Stack** com experiência sólida no mercado de trabalho, atuando do banco de dados à interface do usuário
 - Sempre em busca de evolução técnica e crescimento profissional contínuo
