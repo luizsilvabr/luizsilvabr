@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center" style="font-size: 24px; font-weight: 600;">Desenvolvedor FullStack</p>
+<h2 align="center">Desenvolvedor FullStack</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;React+%7C+Node.js+%7C+PHP+%7C+Python;Sempre+aprendendo+algo+novo;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
