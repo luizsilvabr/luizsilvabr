@@ -1,8 +1,8 @@
 <div align="center">
 
-<h3 align="center"><b>Desenvolvedor FullStack</b></h3>
+<h3 align="center"><b>Desenvolvedor Full Stack</b></h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+FullStack;React+%7C+Node.js+%7C+PHP+%7C+Python;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+PHP+%7C+Python;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
 </div>
 
