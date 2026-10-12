@@ -52,11 +52,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizsilvabr&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
-<br>
-
-## Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizsilvabr&theme=tokyo-night&hide_border=true" />
-</div>
-
