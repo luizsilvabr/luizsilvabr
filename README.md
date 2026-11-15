@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Desenvolvo aplicações web com **React, TypeScript e Node.js**, do banco de dados à interface. Há mais de 3 anos faço parte da equipe do [Legal Mail](https://legalmail.com.br), plataforma SaaS jurídica usada por mais de 1.900 escritórios de advocacia, onde trabalho com PHP 8 e CodeIgniter 4 e mantenho a API pública REST.
+Desenvolvo aplicações web com React, Next.js, TypeScript, Node.js e PostgreSQL, do banco de dados à interface. Há mais de 3 anos faço parte da equipe do Legal Mail, plataforma SaaS jurídica usada por mais de 1.900 escritórios de advocacia, onde trabalho com PHP 8 e CodeIgniter 4 e mantenho a API pública REST. No dia a dia, uso IA como ferramenta de desenvolvimento (Claude Code, Codex e GitHub Copilot), sempre revisando o que é gerado.
 
 ## Stack
 
